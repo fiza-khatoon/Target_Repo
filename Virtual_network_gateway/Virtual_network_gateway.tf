@@ -1,0 +1,1 @@
+# Virtual Network Gateway configuration
